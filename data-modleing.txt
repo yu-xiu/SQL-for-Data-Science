@@ -1,0 +1,19 @@
+What is Data Modeling?
+
+Organize and structures information into multiple, related table
+Can represent a business process or show relationships between business process
+should closely represent real world
+
+-------------------
+Types of data Models
+
+1. models to prediction built by data scientist
+2. data model as data tables represented and organized in a database
+
+
+-------------------
+Which of the following are benefits of a Relational Data Model?
+
+1. it simplifies the connection between data
+2. it allows you to retrieve and update data
+3. it allows you to easily write queries agaist it

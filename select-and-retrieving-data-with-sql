@@ -19,3 +19,18 @@ More detailed objectives:
 4. Create an analysis environment and use INSERT to put data into a table
 
 5. add effective comments in your queries so that one, you can remember what you're doing, and two, so others can review your work.
+
+
+
+
+------------------------
+SQL -> interpreter between you and the database
+
+Relational database management system
+SQL server
+PostgreSQL
+MySQL
+
+
+----------------------
+this class uses SQLite
